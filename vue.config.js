@@ -1,7 +1,7 @@
 module.exports = {
   pages: {
     index: {
-      // page 的入口
+      // page 的入口123123213
       entry: "src/options/main.ts",
       title: "PT-Plugin-Plus"
     },
